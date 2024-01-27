@@ -1,0 +1,16 @@
+{
+"companyName": "Bodhi Donselaar",
+"productName": "Minecraft-In-Unity",
+"productVersion": "1.0.0.0",
+"dataUrl": "Minecraft-In-Unity.data.unityweb",
+"wasmCodeUrl": "Minecraft-In-Unity.wasm.code.unityweb",
+"wasmFrameworkUrl": "Minecraft-In-Unity.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
